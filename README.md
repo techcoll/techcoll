@@ -50,4 +50,4 @@ I am passionate about cybersecurity.I have interest in technology and a dedicati
 
 ## Projects
 - <a href="https://github.com/techcoll/Create-a-Virtual-Machine-and-Deploy-a-Web-Server/tree/main">Create a Virtual Machine and Deploy a Web Server</a>
-- Securing Azure SQL Database
+- <a href="https://github.com/techcoll/Securing-Azure-SQL-Database">Securing Azure SQL Database</a>
